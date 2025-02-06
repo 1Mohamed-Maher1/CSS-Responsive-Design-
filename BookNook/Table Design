@@ -1,0 +1,19 @@
+/*Tablet*/768px
+
+1- change logo size -> size: 2.2rem
+2- Navigation bar -> تكون بجوار بعضها
+                  -> توزيع المساحة بالتساوي
+3- Hero title -> size: 2rem
+                 padding: 20px
+4- Book list -> 2 columns
+-------------------------
+/*Desktop*/1024px
+
+1- change logo size -> size: 2.2rem
+2- Navigation bar -> تكون بجوار بعضها
+                  -> 20px توزيع المساحة بالتساوي
+                  -> add hover affect underline
+3- Hero title -> size: 2.5rem
+                 padding: 50px 
+4- Book list -> 3 columns
+-------------------------
